@@ -4,7 +4,3 @@
 Randomizes all block textures
 Randomizes all item textures
 Only works for 1.19.x
-
-## Version 1.1.0
-Added entity texture randomization
-
